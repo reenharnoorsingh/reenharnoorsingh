@@ -4,8 +4,8 @@
 **reenharnoorsingh/reenharnoorsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on a Virtual Assistant
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on a Car and Pedestrain Tracker
+- 🌱 I’m currently learning MAchine Learning
 - 💬 Ask me about anything Soccer
 - 📫 How to reach me: https://reenharnoorsingh.com/
 - ⚡ Fun fact: “A TV series I’ve watched all the way through more than once is The Office”
