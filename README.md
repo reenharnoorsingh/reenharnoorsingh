@@ -5,7 +5,7 @@
 
 
 <!--- 🔭 I’m currently working on a Face and Smile Detection Software-->
-- 🌱 I’m currently working as a TDigital & Data Analytics Intern at TC Energy
+- 🌱 I’m currently working as a Digital & Data Analytics Intern at TC Energy
 - 💬 Ask me about anything Soccer
 - 📫 How to reach me: https://reenharnoorsingh.com/
 - ⚡ Fun fact: “A TV series I’ve watched all the way through more than once is The Office”
