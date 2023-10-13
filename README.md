@@ -4,12 +4,13 @@
 **reenharnoorsingh/reenharnoorsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<!--- 🔭 I’m currently working on a Face and Smile Detection Software-->
-- 🌱 I’m currently working as a Digital & Data Analytics Intern at TC Energy
-- 💬 Ask me about anything Soccer
-- 📫 How to reach me: https://reenharnoorsingh.com/
-- ⚡ Fun fact: “A TV series I’ve watched all the way through more than once is The Office”
-- ❤ Favourite Language: Python, Java is getting there lol
+<!-- - 🔭 I’m currently working on a Face and Smile Detection Software-->
+- 🎓 4th Year Software Engineering Student at University of Windsor
+- 🌱 Previously a Digital & Data Analytics Intern at TC Energy
+<!--- - 💬 Ask me about anything Soccer-->
+- 📫 How to reach me: https://reenharnoorsingh.com/ or email reenharnoor@outlook.com
+<!---- ⚡ Fun fact: “A TV series I’ve watched all the way through more than once is The Office”-->
+- ❤ Aspiring Data Scientist/Machine Learning Developer
 
 
 
